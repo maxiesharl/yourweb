@@ -1,0 +1,1 @@
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,sans-serif}.bar{border-bottom:1px solid #eee;align-items:center;gap:16px;padding:10px 16px;display:flex}.bar h1{margin:0;font-size:18px}#net{width:100vw;height:calc(100vh - 52px)}#msg a{color:#1d4ed8}
