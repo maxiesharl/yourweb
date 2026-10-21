@@ -1,0 +1,9 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: system-ui, sans-serif; }
+.bar {
+  display: flex; align-items: center; gap: 16px;
+  padding: 10px 16px; border-bottom: 1px solid #eee;
+}
+.bar h1 { font-size: 18px; margin: 0; }
+#net { width: 100vw; height: calc(100vh - 52px); }
+#msg a { color: #1d4ed8; }
